@@ -1,5 +1,7 @@
 package secondlec;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class Task5_SwapVariables {
@@ -16,8 +18,8 @@ public class Task5_SwapVariables {
 //        String variable1 = sc.next();
 //        String variable2 = sc.next();
 //        System.out.printf("%s %s", variable2, variable1);
-
-//        // Solution 3
+//
+//        //  Solution 3
 //        String[] variables = sc.nextLine().split(" ");
 //        for (int i=1; i >= 0; i--){
 //            System.out.printf("%s", variables[i]);
